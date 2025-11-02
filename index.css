@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.font-inter {
+  font-family: 'Inter', sans-serif;
+}
+.font-roboto-slab {
+  font-family: 'Roboto Slab', serif;
+}
+.font-source-code-pro {
+  font-family: 'Source Code Pro', monospace;
+}
+.font-playfair-display {
+  font-family: 'Playfair Display', serif;
+}
+.font-lora {
+  font-family: 'Lora', serif;
+}
